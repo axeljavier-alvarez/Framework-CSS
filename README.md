@@ -1,9 +1,10 @@
 ### Features
 Project done in INTECAP part of the full stack development course, the project is about:
 
-- Layout of web pages using CSSGRID and FLEXBOX tags
-- 7 different views with GRID
-- 7 different views with FLEXBOX
+- Application of bootstrap to a previously made project.
+- Use of accordion for basic html definitions.
+- Use of given bootstrap classes for tables and styles.
+
 
 ### Website
 
